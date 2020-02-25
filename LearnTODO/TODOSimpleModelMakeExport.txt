@@ -1,3 +1,16 @@
+------ Animation
+
+------ Skeletal meshes
+
+------ Collision meshes;
+
+------ Using light maps in UE4
+- Lightmap UVs;
+
+------ Creating and using normal maps in UE4
+- Exporting and importing normal maps (+DONE)
+- Providing a separate UV channel for normal maps (+DONE)
+
 ------ Model a simple mesh
 (+DONE)
 
